@@ -14,6 +14,11 @@ export default function BusinessCategories() {
     <section>
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="pb-12 md:pb-20">
+          {/* Title */}
+          <h2 className="text-3xl font-bold text-center mb-8">
+            Our Tech Stack
+          </h2>
+
           {/* Tab panels */}
           <div className="relative flex h-[324px] items-center justify-center">
             {/* Small blue dots */}
@@ -180,8 +185,8 @@ export default function BusinessCategories() {
                   <Image
                     className="relative"
                     src={Logo01}
-                    width={32}
-                    height={32}
+                    width={52}
+                    height={52}
                     alt="Logo 01"
                   />
                 </div>
