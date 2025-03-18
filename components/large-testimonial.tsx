@@ -35,15 +35,12 @@ export default function LargeTestimonial() {
               <em className="italic text-gray-500">automating scheduling</em> to{" "}
               <em className="italic text-gray-500">real-time tracking</em>,
               everything is seamless now. Our efficiency has improved
-              tremendously, and I can't imagine going back."
+              tremendously."
             </p>
             <div className="text-sm font-medium text-gray-500">
-              <span className="text-gray-700">Melanie-Rose Elasmar</span>{" "}
+              <span className="text-gray-700">Melanie-Rose</span>{" "}
               <span className="text-gray-400">/</span>{" "}
-              <a
-                className="text-blue-500"
-                href="https://www.linkedin.com/in/melanie-rose-elasmar-6227a2182/"
-              >
+              <a className="text-blue-500" href="#0">
                 General Manager at Cleanplace
               </a>
             </div>
